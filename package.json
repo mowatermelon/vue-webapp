@@ -1,6 +1,6 @@
 {
   "name": "vue-mdui-app",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "由西瓜酱提供基于axios，mdui，vue-router，webpack和express等等的webapp模版。",
   "author": "mowatermelon <neefoxmo@gmail.com>",
   "private": true,
