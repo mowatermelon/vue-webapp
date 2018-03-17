@@ -1,2 +1,2 @@
-# vue-mdui-app
-结合mdui和vue做的webapp模版
+# vue-app
+基于vue做的webapp模版
