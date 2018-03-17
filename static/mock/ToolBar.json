@@ -1,0 +1,22 @@
+[
+  {
+    "title":"首页",
+    "icon":"home",
+    "link":"/Home"
+  },
+  {
+    "title":"分析",
+    "icon":"multiline_chart",
+    "link":"/Analysis"
+  },
+  {
+    "title":"幸运28",
+    "icon":"language",
+    "link":"/Lucky"
+  },
+  {
+    "title":"我的",
+    "icon":"dashboard",
+    "link":"/Setting"
+  }
+]
